@@ -1,2 +1,9 @@
-# RSUS-A-Novel-Upsampling-Layer-for-Semantic-Segmentation-of-Remote-Sensing-Images
-This is an open code for a dedicated upsampling method for semantic segmentation of remote sensing images, which can achieve any size of upsampling multiplication. upsampling
+# RSUS
+
+This repository is for the official code release of **RSUS**, a dedicated upsampling method for remote sensing image semantic segmentation.
+
+RSUS supports arbitrary-scale upsampling and can help different segmentation models improve their segmentation performance.
+
+The paper has been submitted to **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**.
+
+The complete code will be publicly released after the paper is accepted.
