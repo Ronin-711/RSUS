@@ -17,3 +17,5 @@ Using it is very simple, as shown in the following example
     ).to(device)
     up.eval()
 
+In addition, we also provide the code of CARAFE++ for reference：Digital Object Identifier no. 10.1109/TPAMI.2021.3074370
+The continuous homology method used in this paper is also disclosed here, which can be used as a reference for topology analysis applications. The detailed code can be found in PH.py
