@@ -6,6 +6,8 @@ RSUS supports arbitrary-scale upsampling and can help different segmentation mod
 ![RSUS Framework](figures/RSUS.jpg)
 
 The paper has been submitted to **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**.
+Update 2026/7/13
+Our article has been accepted by IEEE TGRS！and DOI:10.1109/TGRS.2026.3714102
 
 Update 2026/6/22
 We've published the source code for RSUS, which can be found in RSUS_code.py
